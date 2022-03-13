@@ -28,6 +28,15 @@ My name is Gerald Montanus or just Vlad. I'm a student at  University of Dar-Es-
 <a href="https://github.com/kiwymonzy/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwymonzy&hide=QMake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
+
+<a href="https://github.com/kiwymonzy/Qt-Afya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiwymonzy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&repo=Qt-Afya" />
+</a>
+
+<a href="https://github.com/kiwymonzy/Udsm-Aris3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiwymonzy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&repo=UDSM-Aris3" />
+</a>
+
 <a href="https://github.com/kiwymonzy/Hotel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiwymonzy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&repo=Hotel" />
 </a>
