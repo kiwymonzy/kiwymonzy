@@ -3,7 +3,6 @@
 
 <!-- Icons -->
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 <!-- Links to your social media accounts -->
 
@@ -12,13 +11,6 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Gerald Montanus or just Vlad. I'm a student at  University of Dar-Es-Salaam studying Information Technology. Currently working on C++ software &#128521;
 ###
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/kiwymonzy#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/kiwymonzy#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/1.1.1.1.kiwy#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/1.1.1.1.kiwy#gh-dark-mode-only)
 
 # &#128736; Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
@@ -26,7 +18,6 @@ My name is Gerald Montanus or just Vlad. I'm a student at  University of Dar-Es-
 ![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&logo=data:image/svg%2bxml;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACJUlEQVRIx7WWPWhUURCFzzxCSLEsIVhuY0glEkSCBBSEgLiliIWFWKSyCILxB7G1sBArS20ErVaQQDApTG8hBJEUomIXiYIgKpsfPJ/NfeslP2836g5c5ryZe+e+N/fMvCtgxHbLdts2+QB2xT2Mtu0WMBJAS9I59Ueehu12RAwBkqSIUBXOtaRueD1ss9f2e222Hwn+ZtU+pCjjA+oF57oX3GuKfkSEgXqXF95MejDfqUpeA8fKrwCOAMvb5nyxfQ0YBQrgUe5UBd83gAbQsL0EzAE122PlPOBdmjNo+wJwP9k6sVRRLG8lyfalLGDTdmF7w/YvYAIYtr28V5wqFm1KOihpE3gSEXVJpyVNSXom6UVEnAIuA0VEvJc0Lum6pOFOlKqWkPJdz9jUAD4l/620vgacBU6k5wlgq5Oi7DxawBrwEVgAftqeBOq279meTod4OPmm08YPshjNZFsqDQNZpa5KugJ8lnRV0uOiKF4CdyXNlnUTEQ9tP4+IWgo2ntH6uKRFYLVTaBnfZyS9ShxuRsTXXWriQIZPJrwYEWUPWk62Q+W8PEULwJTtUeAN8AGoJ2reBGZtD9keA74DW8BkysI0cD6x8syOOkiUm7G9YnsOuJPsK8BF2+Pp8GZtr2U0/AbcsH00+W9v/6+Ebbq16H9o1/3vpgN9jv+HRTlbqnCue8JAW9JQnz5gvQDms3b8v8e8gBGgc22p6Es7dAXuXFt+AykWGIq4MJ9jAAAAAElFTkSuQmCC&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
 
