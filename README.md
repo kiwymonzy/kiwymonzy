@@ -41,7 +41,7 @@ My name is Gerald Montanus or just Vlad. I'm a student at  University of Dar-Es-
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiwymonzy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&repo=Hotel" />
 </a>
 <a href="https://github.com/kiwymonzy/Child-Care-Expo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiwymonzy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&repo=Hotel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiwymonzy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&repo=Child-Care-Expo" />
 </a>
 
 <!--
