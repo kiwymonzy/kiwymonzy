@@ -21,6 +21,8 @@ My name is Gerald Montanus or just Kiwy. I'm a student at  University of Dar-Es-
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
+![](https://camo.githubusercontent.com/8b0f8b610855c69b6802bb09560735b967d5d53799e09b6b6da31f728dc40467/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d71742d3431434435323f6c6f676f3d7174266c6f676f436f6c6f723d626c61636b266c6f676f57696474683d3330267374796c653d666f722d7468652d6261646765)
+
 
 # &#x1f4c8; GitHub Stats
 <a href="https://github.com/kiwymonzy/github-readme-stats">
