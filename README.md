@@ -13,17 +13,20 @@ My name is Gerald Montanus or just Kiwy. I'm a student at  University of Dar-Es-
 ###
 
 # &#128736; Technologies & Tools
+APPLICAtiON:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/App-React%20native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
+WEBSITES:
 ![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 
+SOFTWARE:
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-QT6-informational?style=flat&logo=qt&logoColor=white&color=2bbc8a)
 
+DATABASE
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 
