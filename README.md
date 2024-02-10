@@ -9,7 +9,7 @@
 [1]: https://www.kiwymonzy.web.app
 [2]: mailto:jayshevien@gmail.com
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Gerald Montanus or just 2.0kiwy. I'm a student at  University of Dar-Es-Salaam. Currently working on C++ and React Native project development &#128521;
+My name is Gerald Montanus or just 2.0kiwy. I'm a student at  University of Dar-Es-Salaam. Currently working on C++ software development &#128521;
 ###
 
 # &#128736; Technologies & Tools
