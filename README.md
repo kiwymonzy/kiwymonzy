@@ -1,4 +1,4 @@
-# 💫 About Me:Kiwy Monzy | Gerald Montanus
+# 💫 Kiwy Monzy | Gerald Montanus
 🔭 I’m currently working on Bus Tracking System using Arduino<br>🌱 I’m currently learning Flutter
 
 
