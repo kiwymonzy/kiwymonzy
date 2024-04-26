@@ -1,5 +1,5 @@
 # 💫 Kiwy Monzy | Gerald Montanus
-🔭 I’m currently working on Bus Tracking System and Road map software<br>
+🔭 I’m currently working on Bus Tracking System and Road mapping software<br>
 🌱 I’m currently learning Flutter
 
 
