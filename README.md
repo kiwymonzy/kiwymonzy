@@ -1,5 +1,6 @@
 # 💫 Kiwy Monzy | Gerald Montanus
-🔭 I’m currently working on Bus Tracking System using Arduino<br>🌱 I’m currently learning Flutter
+🔭 I’m currently working on Bus Tracking System and Road map software<br>
+🌱 I’m currently learning Flutter
 
 
 ## 🌐 Socials:
