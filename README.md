@@ -24,7 +24,7 @@
 
 ###  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
 
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=kiwmonzy&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=kiwymonzy&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
 
 ![](https://raw.githubusercontent.com/kiwymonzy/kiwymonzy/stats/overview.svg)
 ![](https://raw.githubusercontent.com/kiwymonzy/kiwymonzy/stats/languages.svg)
