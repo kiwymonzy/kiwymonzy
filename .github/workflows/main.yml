@@ -77,7 +77,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: greedysky
+          github_user_name: kiwymonzy
           outputs: |
             dist/overview.svg?palette=github-dark
         env:

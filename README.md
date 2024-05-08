@@ -2,8 +2,8 @@
 >I am a C++/Qt/PHP/NodeMCU/Python Programmer from Tanzania.
 
 ## 🌐 Socials:
-- 🏡 Blog：<a href="https://kiwymonzy.web.app/" target="_blank">kiwymonzy.web.app</a>
-- 💬 Mail：[kiwymonzy9137@gmail.com](kiwymonzy9137@gmail.com)
+- [![Blog](https://img.shields.io/badge/Blog-%2300FF00.svg?logo=Blog&logoColor=white)](https://kiwymonzy.web.app)
+- [![GMail](https://img.shields.io/badge/GMail-%23FF0000.svg?logo=GMail&logoColor=white)](kiwymonzy9137@gmail.com)
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/2.0kiwy) 
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/+255737205292) 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2.0kiwy) 
@@ -29,12 +29,10 @@
 
 
 ###  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
-
+# 📊 GitHub Stats:
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=kiwymonzy&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
-
-![](https://raw.githubusercontent.com/kiwymonzy/kiwymonzy/stats/overview.svg)
-![](https://raw.githubusercontent.com/kiwymonzy/kiwymonzy/stats/languages.svg)
-![](https://raw.githubusercontent.com/kiwymonzy/kiwymonzy/snake/overview.svg)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kiwymonzy&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwymonzy&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ⚡ Visitor count
 ![](https://profile-counter.glitch.me/kiwymonzy/count.svg)
