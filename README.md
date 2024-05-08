@@ -34,5 +34,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kiwymonzy&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwymonzy&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://raw.githubusercontent.com/greedysky/greedysky/snake/overview.svg)
+
 ### ⚡ Visitor count
 ![](https://profile-counter.glitch.me/kiwymonzy/count.svg)
