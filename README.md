@@ -1,5 +1,5 @@
 ### Hi, I'm Kiwy Monzy👋
->I am a C++/Qt/PHP/NodeMCU/Python Programmer from Tanzania.
+>I am a C++/Qt/PHP/NodeMCU/Python Software Developer.
 
 ## 🌐 Socials:
 - [![Blog](https://img.shields.io/badge/Blog-%2300FF00.svg?logo=Blog&logoColor=white)](https://kiwymonzy.web.app)
@@ -16,13 +16,6 @@
 ![C](https://img.shields.io/badge/C-24292e?style=flat-square&logo=c&labelColor=24292e&color=474d56)&nbsp;
 ![C++](https://img.shields.io/badge/C++-24292e?style=flat-square&logo=c%2B%2B&labelColor=24292e&color=474d56)&nbsp;
 ![Qt](https://img.shields.io/badge/Qt-24292e?style=flat-square&logo=Qt&labelColor=24292e&color=474d56)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-24292e?style=flat-square&logo=linux&labelColor=24292e&color=474d56)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-24292e?style=flat-square&logo=php&labelColor=24292e&color=474d56)&nbsp;
 ![Python](https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&labelColor=24292e&color=474d56)&nbsp;
-
-![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-24292e?style=flat-square&logo=gitlab)&nbsp;
-![Gitee](https://img.shields.io/badge/Gitee-24292e?style=flat-square&logo=gitee)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-24292e?style=flat-square&logo=markdown)&nbsp;
-![VS](https://img.shields.io/badge/VS-24292e?style=flat-square&logo=Visual%20Studio)&nbsp;
-![QtCreator](https://img.shields.io/badge/QtCreator-24292e?style=flat-square&logo=Qt)&nbsp;
+![REACT NATIVE](https://img.shields.io/badge/REACT-NATIVE-24292e?style=flat-square&logo=react&labelColor=24292e&color=474d56)&nbsp;
