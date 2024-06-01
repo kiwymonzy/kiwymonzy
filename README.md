@@ -26,15 +26,3 @@
 ![Markdown](https://img.shields.io/badge/Markdown-24292e?style=flat-square&logo=markdown)&nbsp;
 ![VS](https://img.shields.io/badge/VS-24292e?style=flat-square&logo=Visual%20Studio)&nbsp;
 ![QtCreator](https://img.shields.io/badge/QtCreator-24292e?style=flat-square&logo=Qt)&nbsp;
-
-
-###  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
-# 📊 GitHub Stats:
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=kiwymonzy&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kiwymonzy&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwymonzy&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://raw.githubusercontent.com/kiwymonzy/kiwymonzy/snake/overview.svg)
-
-### ⚡ Visitor count
-![](https://profile-counter.glitch.me/kiwymonzy/count.svg)
