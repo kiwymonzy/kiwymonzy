@@ -2,13 +2,6 @@
 >Software Developer.
 
 ## 🌐 Socials:
-- [![Blog](https://img.shields.io/badge/Blog-%2300FF00.svg?logo=Blog&logoColor=white)](https://kiwymonzy.web.app)
-- [![GMail](https://img.shields.io/badge/GMail-%23FF0000.svg?logo=GMail&logoColor=white)](kiwymonzy9137@gmail.com)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/2.0kiwy) 
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/+255737205292) 
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2.0kiwy) 
-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kiwymonzy) 
-- [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kiwymonzy) 
 - [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kiwymonzy) 
 
 ### ⚡ Technologies  
