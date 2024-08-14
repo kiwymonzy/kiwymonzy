@@ -1,5 +1,5 @@
 ### Hi, I'm Kiwy Monzy👋
->I am a C++/Qt/PHP/NodeMCU/Python Software Developer.
+>Software Developer.
 
 ## 🌐 Socials:
 - [![Blog](https://img.shields.io/badge/Blog-%2300FF00.svg?logo=Blog&logoColor=white)](https://kiwymonzy.web.app)
